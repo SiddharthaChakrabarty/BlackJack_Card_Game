@@ -38,3 +38,17 @@ git clone https://github.com/SiddharthaChakrabarty/BlackJack_Card_Game.git
 
 ```bash
 cd blackjack_game
+```
+
+## Usage
+
+1. Run the game by executing the following command:
+
+```bash
+python blackjack_card_game.py
+```
+
+2. Enter the value of chips that you want to start with.
+3. Place your bet.
+4. Choose whether to hit (receive another card) or stand (stop receiving cards).
+5. The game will continue until you win, lose, or choose to stop playing.
