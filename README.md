@@ -16,3 +16,20 @@ The game is designed to be interactive and easy to play. Simply run the Python s
 Feel free to explore the rest of this README file to learn more about how to get started, contribute to the project, and contact us if you have any questions or feedback.
 
 Let's get started and have fun playing Blackjack!
+
+## Game Rules
+
+Blackjack, also known as 21, is a popular card game played between a player and a dealer. The objective of the game is to have a hand value that is closer to 21 than the dealer's hand value, without exceeding 21. The game follows standard Blackjack rules, where face cards (King, Queen, and Jack) are worth 10 points, numbered cards are worth their face value, and Aces can be worth either 1 or 11 points, depending on the player's choice.
+
+## Getting Started
+
+### Prerequisites
+
+- Python 3.x
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/blackjack-game.git
