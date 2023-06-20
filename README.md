@@ -8,11 +8,7 @@ The game is designed to be interactive and easy to play. Simply run the Python s
 - [Game Rules](#game-rules)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
-- [Contact](#contact)
-
+  
 Feel free to explore the rest of this README file to learn more about how to get started, contribute to the project, and contact us if you have any questions or feedback.
 
 Let's get started and have fun playing Blackjack!
