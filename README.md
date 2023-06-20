@@ -33,7 +33,7 @@ Blackjack, also known as 21, is a popular card game played between a player and 
 
 ```bash
 git clone https://github.com/SiddharthaChakrabarty/BlackJack_Card_Game.git
-
+```
 2. Navigate to the project directory
 
 ```bash
